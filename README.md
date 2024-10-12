@@ -1,6 +1,6 @@
 # Creación de Videojuegos
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://assets1.ignimgs.com/thumbs/userUploaded/2015/8/28/bestsellinggames1280-1440779592068_1280w.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Repositorio dedicado para almacenar las lecciones realizadas en clase
