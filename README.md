@@ -44,10 +44,10 @@
   * > [Tutorial](/Leccion%203/Prototipo03_OscarRicardoVillegasMartinez.unitypackage)
   * > [Prueba](/Leccion%203/EvidenciaPrototipo03_OscarRicardoVillegasMartínez.pdf)
 * Lección 4
-  * > Tutorial
+  * > [Tutorial](/Leccion%204/Prototipo_04OscarRicardoVillegasMartinez.unitypackage)
   * > Laboratorio
   * > Desafío
-  * > Prueba
+  * > [Prueba](/Leccion%204/EvidenciaPrototipo04_OscarRicardoVillegasMartínez.pdf)
 * Lección 5
   * > Tutorial
   * > Laboratorio
