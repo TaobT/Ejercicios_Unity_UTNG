@@ -49,10 +49,10 @@
   * > Desafío
   * > [Prueba](/Leccion%204/EvidenciaPrototipo04_OscarRicardoVillegasMartínez.pdf)
 * Lección 5
-  * > Tutorial
+  * > [Tutorial](/Leccion%205/Prototipo_05OscarRicardoVillegasMartinez.unitypackage)
   * > Laboratorio
   * > Desafío
-  * > Prueba
+  * > [Prueba](/Leccion%205/EvidenciaPrototipo05_OscarRicardoVillegasMartínez.pdf)
 * [VideoJuego](https://github.com/TaobT/CartToon-Race)
 
 ## Planificación
