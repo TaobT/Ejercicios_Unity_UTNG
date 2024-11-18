@@ -39,6 +39,8 @@
   * > Prueba
 * Lección 2
   * > [Tutorial](/Leccion%202/Prototipo02_OscarRicardoVillegasMartinez.unitypackage)
+  * > [Desafio](/Reto%202/Challenge_02OscarRicardoVillegasMartinez.unitypackage)
+  * > [Prueba Desafio](/Reto%202/EvidenciaReto02_OscarRicardoVillegasMartínez.pdf)
   * > [Prueba](/Leccion%202/EvidenciaPrototipo02_OscarRicardoVillegasMartínez.pdf)
 * Lección 3
   * > [Tutorial](/Leccion%203/Prototipo03_OscarRicardoVillegasMartinez.unitypackage)
